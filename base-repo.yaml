@@ -6,4 +6,4 @@ spec:
   repo: https://github.com/eedorenko/kalypso-tut-test-control-plane
   branch: main
   path: .
-  commit: 92150046296f01340b461e8d26660f75c390434e
+  commit: 281a9cbe37c87c4fa8f31cc1b1795028b3845bb2
